@@ -3,6 +3,3 @@
 1. Lecture 65
 2. Lecture 66
 3. Lecture 67
-4. Lecture 68
-5. Lecture 69
-6. Lecture 70
