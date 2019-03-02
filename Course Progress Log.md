@@ -4,3 +4,4 @@
 2. Lecture 66. Code Along.Pt 1
 3. Lecture 67. Code Along.Pt 2
 4. Lecture 68. CSS Blog from Scratch Exercise Intro
+5. Lecture 69. CSS Blog from Scratch Solution.Pt 1
