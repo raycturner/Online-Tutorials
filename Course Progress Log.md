@@ -11,6 +11,6 @@
 # Section 7 - Bootstrap.
 8.  Lecture 72. Unit Objectives
 9.  Lecture 73. About Bootstrap Versions
-10. Lecture 74. Whatis Bootstrap?
+10. Lecture 74. What is Bootstrap?
 11. Lecture 75. Adding Bootstrap to a Project
 
