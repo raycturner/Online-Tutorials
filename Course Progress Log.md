@@ -6,3 +6,4 @@
 4. Lecture 68. CSS Blog from Scratch Exercise Intro
 5. Lecture 69. CSS Blog from Scratch Solution.Pt 1
 6. Lecture 70. CSS Blog from Scratch Solution.Pt 2
+7. Lecture 71. CSS Blog from Scratch Solution.Pt 3
